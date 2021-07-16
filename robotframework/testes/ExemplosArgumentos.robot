@@ -1,3 +1,10 @@
+########################################################################################################
+# QA: Alberson Ferreira Barbosa
+# (92) 98116-4571
+# https://www.linkedin.com/in/albersonfbarbosa/
+# https://github.com/albersonfbarbosa/
+########################################################################################################
+
 *** Settings ***
 Documentation    Exemplo de uso de variáveis como argumentos em Keywords
 
